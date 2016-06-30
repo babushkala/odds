@@ -1,0 +1,13 @@
+Package: odds
+Type: Package
+Title: Functions for Gambling
+Version: 0.1.0
+Author: Claire Adair <cadair@princeton.edu>
+Description: Functions for working with fractional and decimal odds.
+License: LGPL
+LazyData: TRUE
+Imports:
+    MASS
+Suggests:
+    testthat
+RoxygenNote: 5.0.1
